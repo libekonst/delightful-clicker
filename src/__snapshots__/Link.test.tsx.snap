@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The Link component renders an Anchor element 1`] = `
+<a
+  href="www.github.com/kostaslib"
+  target="blank"
+  title="My link test"
+>
+  My profile
+</a>
+`;
