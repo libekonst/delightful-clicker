@@ -41,6 +41,7 @@
     "enzyme": "^3.9.0",
     "enzyme-adapter-react-16": "^1.13.0",
     "enzyme-to-json": "^3.3.5",
+    "eslint-plugin-cypress": "^2.2.1",
     "prettier": "^1.17.1",
     "tslint": "^5.16.0",
     "tslint-config-airbnb": "^5.11.1",
