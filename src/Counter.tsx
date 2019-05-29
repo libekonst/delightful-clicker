@@ -10,9 +10,9 @@ export const Counter: FC<IProps> = props => {
   const { value, onDecrement, onIncrement } = props;
   return (
     <div>
-      <p>{value}</p>
-      <button onClick={onDecrement}>-</button>
-      <button onClick={onIncrement}>+</button>
+      <h2>{value}</h2>
+      <button id="decrement" onClick={onDecrement}>-</button>
+      <button id="increment" onClick={onIncrement}>+</button>
     </div>
   );
 };
